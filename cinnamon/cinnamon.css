@@ -1186,10 +1186,10 @@ StScrollBar {
       padding-left: 1px; }
     .grouped-window-list-item-box:focus {
       color: #ffffff;
-      background-color: #41005f; }
+      background-color: #250036; }
     .grouped-window-list-item-box:hover {
       color: #ffffff;
-      background-color: #250036; }
+      background-color: #41005f; }
   .grouped-window-list-item-box:active, .grouped-window-list-item-box:checked {
     color: #ffffff;
     border-color: #8800c7; }
